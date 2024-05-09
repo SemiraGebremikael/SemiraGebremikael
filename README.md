@@ -10,7 +10,7 @@ Hello! I'm a passionate .NET developer who loves coding. I've worked on numerous
 - **Databases:** SQL Server, MySQL
 
 #### Projects
-📁 Feel free to check out my repositories where I share my personal and collaborative projects. Visit my (https://semiragebremikael.com/) to see my work.
+📁 Feel free to check out my repositories where I share my personal and collaborative projects. Visit my https://semiragebremikael.com/ to see my work.
 
 #### Currently Learning
 📘 I am currently deepening my knowledge in:
@@ -18,5 +18,5 @@ Hello! I'm a passionate .NET developer who loves coding. I've worked on numerous
 
 #### Contact Me
 📫 I love collaborating and learning from other developers. If you want to get in touch or have any questions, please do not hesitate to contact me via:
-- **LinkedIn:** (https://www.linkedin.com/in/semira-gebremikael150/)
-- **Email:** (semiragere61@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/semira-gebremikael150/
+- **Email:** semiragere61@gmail.com
