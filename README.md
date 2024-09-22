@@ -1,5 +1,5 @@
 ### Welcome to My GitHub Profile! 👋
-I'm a passionate .NET developer who loves coding. I've worked on numerous projects and am always eager to learn more and improve my skills.
+I'm a passionate .NET developer who loves coding. I've worked on numerous projects and I'm always eager to learn more and improve my skills.
 
 #### My Technical Skills 💻
 - **Programming Languages:** C#, Asp.net, HTML, CSS, JavaScript
