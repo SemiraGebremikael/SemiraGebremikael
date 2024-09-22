@@ -2,8 +2,8 @@
 I'm a passionate .NET developer who loves coding. I've worked on numerous projects and am always eager to learn more and improve my skills.
 
 #### My Technical Skills 💻
-- **Programming Languages:** C#, HTML, CSS, JavaScript
-- **Frameworks:** .Net, .Net core, Angular
+- **Programming Languages:** C#, Asp.net, HTML, CSS, JavaScript
+- **Frameworks:** EF .Net core, Angular, Bootstrap 
 - **Databases:** SQL Server, MySQL
 
 #### Projects
